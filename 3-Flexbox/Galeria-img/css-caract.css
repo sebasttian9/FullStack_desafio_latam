@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+
+.caracteristicas {
+    background-color: #f1f1f1;;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}

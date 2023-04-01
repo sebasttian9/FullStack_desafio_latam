@@ -1,0 +1,100 @@
+body {
+    font-family: 'Raleway';
+    margin: 0px;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+
+.iguana_grande {
+    background: transparent url('../img/bg-header.jpg') 0% 0% no-repeat padding-box;
+    height: 727px;
+    background-size: cover;
+    background-position: center;
+}
+
+.informacion {
+    display: flex;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    justify-content: space-evenly;
+    height: 348px;
+    align-items: center;
+
+}
+
+.iguana1 {
+    width: 399px;
+}
+
+.info1 {
+
+    width: 475px;
+    height: 197px;
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.caracteristicas {
+    background-color: #1E1A13;
+    color: white;
+    text-align: center;
+}
+
+.titulo1{
+    font-size: 40px;
+    margin: 0px;
+    padding: 40px;
+    
+}
+
+.containerCaract{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 24px;
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+
+.galeria {
+    background-color: black;
+    height: 348px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.galeria div img{
+    width: 316px;
+    height: 202px;
+}
+
+.footer{
+   background-color:  #1E1A13;
+   height: 102px;
+   color: #FFFFFF;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.footer p {
+    margin: 0px;
+    font-size: 20px;
+    font: normal normal 300 20px/24px Raleway;
+}
