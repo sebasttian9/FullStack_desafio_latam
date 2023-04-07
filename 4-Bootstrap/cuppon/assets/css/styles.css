@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+.nav-color {
+    background-color: #28A745;
+}
+
+.formulario {
+    background-color: #28A745;
+    padding: 2%;
+}
+
+p {
+    font-weight: 300;
+}
+
+h4 {
+    font-weight: 500;
+}
+
+input {
+    font-weight: 300;
+}
+
+.nombre_prod {
+    color: #707070;
+    font-size: 16px;
+}
+
+.direccion {
+    color: #707070;
+    font-size: 13px;
+}
+
+.precio_normal {
+    color: #707070;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.precio_oferta{
+    color: #28A745;
+    font-size: 20px;
+    font-weight: 500;
+}
